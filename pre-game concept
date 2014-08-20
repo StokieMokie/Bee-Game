@@ -1,0 +1,49 @@
+- - - - Bee Game pre-concept ideas - - - - 
+
+
++ Game Design:
+
+
+
+  - Summary  : Bee game is a 2d singleplayer/multiplayer racing game, (mainly created for mobile devices?), featuring time trial mode and highscore list.
+               (In multiplayer mode players alternately struggle for the best score in time trial mode, on the same device.)
+
+
+
+  - Gameplay : Collect as much pollen as you can and bring it to your base to earn points. Take care of npc enemies, which try
+               to take you down. The game ends, if the player runs out of time.
+
+               (Maybe the player only got "time" instead of health and everytime the player is hit by an enemy or a trap on the track,
+               he might lose like 2-3sec of his time and he got different possibilities to stock it up again? [Like by collecting items
+               which give you time, killing enemies or releasing pollen on the base?]
+
+
+  - Mindset  : Give the player a feeling of action and speed, by navigating a bee through a dangerous track.
+
+
+
++ Graphics:
+
+  - Style Attributes : 2d Cartoony "cardboard" style. (like little big planet for example.)
+                       Graphics need a very plastic/three-dimensional style, with something like a brown cardboard-looking border
+                       and need to be placed on different layers.
+
+
+  - Atmosphere : funny? friendly? cool? ... or ... tough? badass? little evil?
+
+
+
++ Sounds/Music:
+
+  - Style Attributes : Fast paced music, full of action, which gives the player a feeling of speed and power?
+                       
+                       (might be friendly and a bit funny as well??)
+
+
+
++ Level Design :
+
+  - Themes : ?? Forrest ?? Outdoor-pool ?? 
+
+  - Game Flow : -?? Player starts at base and can move in all different directions? Like the map is a big quader? Might be interesting, if the player
+                 is good and collects much time, thus he has many possibilities to explore the track.
